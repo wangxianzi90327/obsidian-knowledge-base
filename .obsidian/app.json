@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileFolderPath": "笔记",
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "附件",
+  "trashOption": "local",
+  "spellcheck": false
+}

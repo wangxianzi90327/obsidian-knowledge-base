@@ -1,0 +1,23 @@
+{
+  "daily": {
+    "enabled": true,
+    "folder": "日记",
+    "format": "YYYY-MM-DD",
+    "template": "Templates/每日笔记模板"
+  },
+  "weekly": {
+    "enabled": true,
+    "folder": "日记/周记",
+    "format": "YYYY-[W]ww",
+    "template": ""
+  },
+  "monthly": {
+    "enabled": false
+  },
+  "quarterly": {
+    "enabled": false
+  },
+  "yearly": {
+    "enabled": false
+  }
+}

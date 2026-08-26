@@ -1,0 +1,18 @@
+{
+  "templates_folder": "Templates",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "日记",
+      "template": "Templates/每日笔记模板.md"
+    },
+    {
+      "folder": "项目",
+      "template": "Templates/项目模板.md"
+    }
+  ],
+  "trigger_on_file_creation": true,
+  "enable_file_templates": true,
+  "syntax_highlighting": true,
+  "user_functions_enabled": true
+}

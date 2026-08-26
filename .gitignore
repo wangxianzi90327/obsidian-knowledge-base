@@ -1,0 +1,30 @@
+# Obsidian workspace files (local state, not for version control)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace-tablet.json
+.obsidian/workspace.json.bak
+
+# Obsidian cache
+.obsidian/cache
+
+# Trash
+.trash/
+
+# Excalidraw backup files
+*.excalidraw.md.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*~
+download-plugins.ps1
+copy-plugins.ps1
+check-remaining.ps1
+copy-obsidian-config.ps1
+download-large-files.ps1
+debug.log
