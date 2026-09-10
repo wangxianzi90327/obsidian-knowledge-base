@@ -1,0 +1,29 @@
+{
+  "vault_path": "D:\\wxsdevops\\Obsidian",
+  "base_name": "Obsidian知识库收件箱",
+  "table_name": "视频收藏",
+  "base_token": "FVWibhQ5fa5mjQsXL7RctpeynUM",
+  "table_id": "tblCSh0OqegsalqF",
+  "form_id": "vewuzsDNbr",
+  "form_share_url": "https://my.feishu.cn/share/base/shrcnGOTEkgyKAQyOh7VyfhF16g",
+  "base_url": "https://my.feishu.cn/base/FVWibhQ5fa5mjQsXL7RctpeynUM",
+  "chat_id": "oc_ad615ed161dd8c6d7d460c0c40667a7d",
+  "chat_name": "Obsidian知识库收件箱",
+  "field_ids": {
+    "链接": "fldV99siNo",
+    "标签": "fldTjJcOl1",
+    "标签2": "fldcoGYRfU",
+    "标签3": "fldQBqKiG2",
+    "标签4": "fldNroIxRy",
+    "标签5": "fldG4mHpiM"
+  },
+  "last_full_sync": "2026-09-09T16:15:00+08:00",
+  "last_incremental_sync": "2026-09-09T23:54:20+08:00",
+  "processed_record_ids": [
+    "recvuI0Si4WsMR"
+  ],
+  "failed_record_ids": [],
+  "sync_notes_location": "00 收件箱/视频收藏",
+  "topic_notes_location": "40 知识笔记/标签主题",
+  "template_path": "99 系统/模板/视频来源笔记.md"
+}

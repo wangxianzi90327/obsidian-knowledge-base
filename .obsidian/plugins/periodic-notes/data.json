@@ -1,4 +1,48 @@
 {
+  "installedVersion": "1.0.0-beta1",
+  "activeCalendarSet": "Default",
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "calendarSets": [
+    {
+      "day": {
+        "enabled": true,
+        "format": "YYYY-MM-DD",
+        "folder": "日记",
+        "openAtStartup": false,
+        "templatePath": "Templates/每日笔记模板"
+      },
+      "week": {
+        "enabled": true,
+        "format": "YYYY-[W]ww",
+        "folder": "日记/周记",
+        "openAtStartup": false,
+        "templatePath": ""
+      },
+      "month": {
+        "enabled": false,
+        "format": "",
+        "folder": "",
+        "openAtStartup": false
+      },
+      "quarter": {
+        "enabled": false,
+        "format": "",
+        "folder": "",
+        "openAtStartup": false
+      },
+      "year": {
+        "enabled": false,
+        "format": "",
+        "folder": "",
+        "openAtStartup": false
+      },
+      "id": "Default",
+      "ctime": "2026-08-26T18:45:07+08:00"
+    }
+  ],
+  "enableTimelineComplication": true,
   "daily": {
     "enabled": true,
     "folder": "日记",

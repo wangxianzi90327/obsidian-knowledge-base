@@ -1,22 +1,13 @@
-{
-  "file-explorer": true,
-  "global-search": true,
-  "switcher": true,
-  "bookmarks": true,
-  "graph": true,
-  "backlink": true,
-  "canvas": true,
-  "outgoing-link": true,
-  "tag-pane": true,
-  "page-preview": true,
-  "daily-notes": true,
-  "templates": true,
-  "note-composer": true,
-  "command-palette": true,
-  "slash-command": true,
-  "editor-status": true,
-  "markdown-importer": false,
-  "outline": true,
-  "word-count": true,
-  "file-recovery": true
-}
+[
+  "file-explorer",
+  "global-search",
+  "switcher",
+  "graph",
+  "backlink",
+  "tag-pane",
+  "page-preview",
+  "templates",
+  "command-palette",
+  "bookmarks",
+  "markdown-importer"
+]

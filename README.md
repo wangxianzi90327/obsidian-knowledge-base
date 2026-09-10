@@ -17,17 +17,17 @@ obsidian/
 
 ## 已安装插件
 
-| 插件 | 功能 |
-|------|------|
-| Obsidian Git | Git 版本控制，自动备份和 GitHub 同步 |
-| Dataview | 数据查询，用代码块动态展示笔记内容 |
-| Templater | 高级模板引擎，支持变量和脚本 |
-| Calendar | 侧边栏日历，快速导航日记 |
-| Tasks | 任务管理，支持截止日期和重复任务 |
-| Kanban | 看板视图，项目管理利器 |
-| Excalidraw | 手绘白板，可视化思维 |
-| Mind Map | 思维导图，将笔记转为脑图 |
-| Periodic Notes | 周期性笔记（日/周/月/季/年） |
+| 插件             | 功能                       |
+| -------------- | ------------------------ |
+| Obsidian Git   | Git 版本控制，自动备份和 GitHub 同步 |
+| Dataview       | 数据查询，用代码块动态展示笔记内容        |
+| Templater      | 高级模板引擎，支持变量和脚本           |
+| Calendar       | 侧边栏日历，快速导航日记             |
+| Tasks          | 任务管理，支持截止日期和重复任务         |
+| Kanban         | 看板视图，项目管理利器              |
+| Excalidraw     | 手绘白板，可视化思维               |
+| Mind Map       | 思维导图，将笔记转为脑图             |
+| Periodic Notes | 周期性笔记（日/周/月/季/年）         |
 
 ## 使用指南
 
