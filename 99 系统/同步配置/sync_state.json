@@ -18,9 +18,10 @@
     "标签5": "fldG4mHpiM"
   },
   "last_full_sync": "2026-09-09T16:15:00+08:00",
-  "last_incremental_sync": "2026-09-09T23:54:20+08:00",
+  "last_incremental_sync": "2026-09-10T19:03:21+08:00",
   "processed_record_ids": [
-    "recvuI0Si4WsMR"
+    "recvuI0Si4WsMR",
+    "recvuMA9WrreUL"
   ],
   "failed_record_ids": [],
   "sync_notes_location": "00 收件箱/视频收藏",
